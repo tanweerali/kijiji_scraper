@@ -6,4 +6,4 @@ Beautiful Soup kijiji scraper with proxy and user-agent integration.
 Note: You need to have a list of proxies or else it won't run.
 
 
-<b>Disclaimer: I am not responsible for any damages or law broken out of using the software. </b>
+<b>Disclaimer: I am not responsible for any damages or laws broken out of using the software. </b>
